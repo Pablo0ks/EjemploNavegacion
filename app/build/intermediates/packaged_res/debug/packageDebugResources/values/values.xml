@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#2196F3</color>
+    <color name="green">#4CAF50</color>
+    <color name="purple">#9C27B0</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFEB3B</color>
+    <string name="app_name">EjemploNavegacion</string>
+    <string name="hello_blank_fragment">Hello blank fragment %s</string>
+    <string name="hello_blank_fragment2">ir al fragment 2</string>
+    <string name="hello_blank_fragment3">ir al fragment 3</string>
+    <string name="hello_blank_fragment4">ir al fragment 4</string>
+    <style name="Base.Theme.EjemploNavegacion" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EjemploNavegacion" parent="Base.Theme.EjemploNavegacion"/>
+</resources>
